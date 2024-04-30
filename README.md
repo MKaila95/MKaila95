@@ -18,7 +18,7 @@ My journey through graduate school has led me to develop a passion for cybersecu
 | Basic Port Scanning a Vulnerable System using Nmap | <a href="https://youtube.com">https://youtu.be/l3HojlWCDJs?si=PM9UH-JpX31ZPu3v </a>|
 | Port Scanning for OS Discovery and Service Version Detection | <a href="https://youtube.com">https://youtu.be/qCejkC36DTs?si=6JU6u2OkS9Akc43w </a>|
 | Basic Vulnerability Scan using Nessus         | <a href="https://youtube.com">https://youtu.be/uzyeiGCmsoM?si=OQXbtJz79pYZWjU4 </a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+|Credentialed Vulnerability Scan using Nessus   | <a href="https://youtube.com">https://youtu.be/uzyeiGCmsoM?si=OQXbtJz79pYZWjU4 </a>|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
