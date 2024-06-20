@@ -31,6 +31,7 @@ My journey through graduate school has led me to develop a passion for cybersecu
 ### Vulnerability Management
 <div> 
 <img src="https://img.shields.io/badge/Nessus-gray" height="28" /> 
+<img src="https://img.shields.io/badge/OpenVAS-green?color=green" height="28" />
 </div>
 
 ### Endpoint
