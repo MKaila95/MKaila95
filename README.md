@@ -47,6 +47,7 @@ My journey through graduate school has led me to develop a passion for cybersecu
 ### Email Monitoring
 <div> 
 <img src="https://img.shields.io/badge/WhatsMyIP-%20darkgreen" height="28" />
+<img src="https://img.shields.io/badge/Zeltser-black" height="28" />
  </div>
 
 ## Certifications
