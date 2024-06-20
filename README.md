@@ -1,4 +1,4 @@
-ow to change bad# Hello, I'm M'Kaila Clark
+# Hello, I'm M'Kaila Clark
 <a href="https://www.linkedin.com/in/m-kaila-clark-ms-rhia-sscp-3b1229132"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo+linkedin&logoColor+white" /></a>
 
 I am a proactive cybersecurity professional with a profound interest in technology and a passion for solving complex problems. My professional focus is in security operations, incident response and management, vulnerability management, and reporting and communication. 
@@ -23,7 +23,7 @@ My journey through graduate school has led me to develop a passion for cybersecu
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/Nmap-blue" />
+    <img src="https://img.shields.io/badge/Nmap-blue" height="28" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
