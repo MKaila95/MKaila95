@@ -23,7 +23,7 @@ My journey through graduate school has led me to develop a passion for cybersecu
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-![nmap-logo](https://github.com/MKaila95/MKaila95/assets/166182340/1ce743aa-bb15-445f-909c-da4e07594940)
+    <img src="https://img.shields.io/badge/-Nmap-66abc8?&style
 =for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
