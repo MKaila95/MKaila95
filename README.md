@@ -23,7 +23,7 @@ My journey through graduate school has led me to develop a passion for cybersecu
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/Nmap-blue" height="28" />
+    <img src="https://img.shields.io/badge/Nmap-blue" height="28" font-size="100" font-family:" Verdana, Geneva, "DejaVu Sans", sans-serif" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
