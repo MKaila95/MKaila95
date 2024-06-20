@@ -59,6 +59,6 @@ My journey through graduate school has led me to develop a passion for cybersecu
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/SSCP-darkgreen?logo=ISC2" height="28"/>
+<img src="https://img.shields.io/badge/SSCP-green?logo=ISC2" height="28"/>
 <img src="https://img.shields.io/badge/RHIA-red?logo=AHIMA" height="28"/>
 </div>
