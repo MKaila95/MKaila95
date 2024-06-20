@@ -29,7 +29,9 @@ My journey through graduate school has led me to develop a passion for cybersecu
 </div>
 
 ### Vulnerability Management
-<div></div>
+<div> 
+<img src="https://img.shields.io/badge/Nessus-gray" height="28" /> 
+</div>
 
 ### Endpoint
 <div>
