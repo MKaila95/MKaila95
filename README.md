@@ -1,5 +1,5 @@
 # Hello, I'm M'Kaila Clark
-<a href="https://www.linkedin.com/in/m-kaila-clark-ms-rhia-sscp-3b1229132"> /></a>
+<a href="https://www.linkedin.com/in/m-kaila-clark-ms-rhia-sscp-3b1229132"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo+linkedin&logoColor+white" /></a>
 
 I am a proactive cybersecurity professional with a profound interest in technology and a passion for solving complex problems. My professional focus is in security operations, incident response and management, vulnerability management, and reporting and communication. 
 
