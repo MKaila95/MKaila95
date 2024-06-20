@@ -42,7 +42,12 @@ My journey through graduate school has led me to develop a passion for cybersecu
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-</div>    
+</div>  
+
+### Email Monitoring
+<div> 
+<img src="https://img.shields.io/badge/WhatsMyIP-%20darkgreen" height="28" />
+ </div>
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
