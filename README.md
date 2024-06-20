@@ -34,6 +34,12 @@ My journey through graduate school has led me to develop a passion for cybersecu
 <img src="https://img.shields.io/badge/OpenVAS-green?color=green" height="28" />
 </div>
 
+### Threat Hunting
+<div> 
+<img src="https://img.shields.io/badge/AbuseIPBD-blue?logoColor=red&labelColor=red&color=black" height="28" />
+<img src="https://img.shields.io/badge/OTX-darkblue" height="28" />
+</div>
+
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
