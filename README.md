@@ -11,10 +11,10 @@ My journey through graduate school has led me to develop a passion for cybersecu
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Basic Port Scanning a Vulnerable System using Nmap | <a href="https://youtube.com">https://youtu.be/l3HojlWCDJs?si=PM9UH-JpX31ZPu3v </a>|
-| Port Scanning for OS Discovery and Service Version Detection | <a href="https://youtube.com">https://youtu.be/qCejkC36DTs?si=6JU6u2OkS9Akc43w </a>|
-| Basic Vulnerability Scan using Nessus         | <a href="https://youtube.com">https://youtu.be/uzyeiGCmsoM?si=OQXbtJz79pYZWjU4 </a>|
-|Credentialed Vulnerability Scan using Nessus   |[Vulnerability Scan] (https://youtu.be/CkN43m7IE2U?si=EkzbO8MBum2DSrdH)|
+| Basic Port Scanning a Vulnerable System using Nmap | [Basic Port Scan](https://youtu.be/l3HojlWCDJs?si=PM9UH-JpX31ZPu3v)|
+| Port Scanning for OS Discovery and Service Version Detection |[Port Scan for OS and Service](https://youtu.be/qCejkC36DTs?si=6JU6u2OkS9Akc43w)|
+| Basic Vulnerability Scan using Nessus         | [Basic Vulnerability Scan](https://youtu.be/uzyeiGCmsoM?si=OQXbtJz79pYZWjU4)|
+|Credentialed Vulnerability Scan using Nessus   |[Credentialed Vulnerability Scan](https://youtu.be/CkN43m7IE2U?si=EkzbO8MBum2DSrdH)|
 | Treat Hunting using AlienVault OTX            | [Threat Hunting](https://youtu.be/pRkX0ypC8ks?si=YR1ZWpJfAFsBqPfS)|
 | Penetration Test on Metasploitable Machine    | [Penetration Test](https://youtu.be/Q2YdVrZWAdE?si=PpB-zLjK6H3Cd0O6)|
 
