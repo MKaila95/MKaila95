@@ -15,7 +15,7 @@ My journey through graduate school has led me to develop a passion for cybersecu
 | Port Scanning for OS Discovery and Service Version Detection | <a href="https://youtube.com">https://youtu.be/qCejkC36DTs?si=6JU6u2OkS9Akc43w </a>|
 | Basic Vulnerability Scan using Nessus         | <a href="https://youtube.com">https://youtu.be/uzyeiGCmsoM?si=OQXbtJz79pYZWjU4 </a>|
 |Credentialed Vulnerability Scan using Nessus   | <a href="https://youtube.com">https://youtu.be/CkN43m7IE2U?si=EkzbO8MBum2DSrdH </a>|
-| Treat Hunting using AlienVault OTX            | <a href="https://youtu.be/pRkX0ypC8ks?si=FIypiU9ttrqjk9wL" </a>|
+| Treat Hunting using AlienVault OTX            | <a href="https://youtube.com">https://youtu.be/pRkX0ypC8ks?si=FIypiU9ttrqjk9wL </a>|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
