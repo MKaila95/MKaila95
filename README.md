@@ -16,7 +16,7 @@ My journey through graduate school has led me to develop a passion for cybersecu
 | Basic Vulnerability Scan using Nessus         | <a href="https://youtube.com">https://youtu.be/uzyeiGCmsoM?si=OQXbtJz79pYZWjU4 </a>|
 |Credentialed Vulnerability Scan using Nessus   | <a href="https://youtube.com">https://youtu.be/CkN43m7IE2U?si=EkzbO8MBum2DSrdH </a>|
 | Treat Hunting using AlienVault OTX            | <a href="https://youtube.com">https://youtu.be/pRkX0ypC8ks?si=FIypiU9ttrqjk9wL </a>|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Penetration Test on Metasploitable Machine    | <a href="https://youtube.com">https://youtu.be/Q2YdVrZWAdE?si=PpB-zLjK6H3Cd0O6 </a>|
 
 ## Tools
 
